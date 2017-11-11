@@ -1,21 +1,8 @@
-# yj-first-vue-project
+# vue todoList demo
 
-> this is my first vue project
+> this is vue todoList demo
 
-## Build Setup
+## cd vue-todoLIst
+## npm run dev
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+使用了localstorage，刷新页面后列表仍然存在
